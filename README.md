@@ -8,6 +8,8 @@
 文件名称为 `your-dict-name.txt`，其中 `your-dict-name` 需要自己设定，例如创建一个法律词库，你可以选名 `law.txt`。
 
 ```bash
+# 首先通过 git 拉回项目，然后再进目录后执行下面的命令
+composer update
 php convert.php {your-dict-name}.txt
 ```
 
