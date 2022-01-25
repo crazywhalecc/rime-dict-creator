@@ -1,0 +1,5 @@
+{
+    "require": {
+        "fukuball/jieba-php": "dev-master"
+    }
+}
